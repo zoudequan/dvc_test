@@ -1,0 +1,4 @@
+[core]
+    remote = rawdata
+['remote "rawdata"']
+    url = D:/github/data
